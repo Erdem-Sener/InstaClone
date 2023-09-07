@@ -11,6 +11,7 @@
 .middlearea{
   max-height: 200px !important;
   padding: 100px;
+  margin-topS:  100px; 
 }
 
 input.empty {
